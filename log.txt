@@ -1,5 +1,7 @@
 4/10/22
-Started Frontend Simplified
+-Started Frontend Simplified-
 Created Github account
 Created Linkedin account
 Installed Git
+Started Week 1:
+HTML Crash Course Timestamp: 
